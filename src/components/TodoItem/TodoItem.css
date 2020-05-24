@@ -1,0 +1,22 @@
+.list-todo-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.todo-item-added {
+  display: flex;
+  flex-direction: row;
+  height: 38px;
+  width: 100%;
+  justify-content: space-between;
+  border: none;
+  border-radius: 5px;
+  background: #02693d;
+  box-shadow: 5px 5px 25px rgb(54, 53, 53);
+}
+
+.todo-item-added h6 {
+  margin: 0;
+  width: 70%;
+  padding: 13px 10px 5px 10px;
+}

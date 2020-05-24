@@ -1,0 +1,21 @@
+form {
+  display: flex;
+  flex-direction: row;
+}
+
+input {
+  background: #aceed0;
+  border-radius: 5px;
+  border: none;
+  height: 30px;
+  padding: 5px 10px;
+  box-shadow: 5px 5px 25px rgb(54, 53, 53);
+}
+
+input::placeholder {
+  color: white;
+}
+
+input:focus {
+  outline: none;
+}
