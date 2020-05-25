@@ -15,7 +15,8 @@
 
 .container {
   max-width: 600px;
-  background: #25d084;
+  background-color: hotpink;
+  /*background: #25d084;*/
   margin: 20px auto;
   padding: 30px 30px 100px 30px;
   height: auto;
