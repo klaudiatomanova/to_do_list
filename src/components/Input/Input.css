@@ -1,11 +1,11 @@
 form {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 input {
   background: #aceed0;
-  border-radius: 5px;
+  border-radius: 5px 0px 0px 5px;
   border: none;
   height: 30px;
   padding: 5px 10px;
